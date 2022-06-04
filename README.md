@@ -2,7 +2,7 @@
 
 
 - 👋 Oi, eu sou a Dezanete
-- 📫 Meu e-mail de contato é giovanna.dezanete@escola.pr.gov.br 
+- 📫 Meu e-mail de contato é **giovanna.dezanete@escola.pr.gov.br** 
 - 👀 Meu interesse é em aprender a programar novas linguagens.
 - 🌱 No momento estou aprendendo a programar a linguagem JavaScript e Scratch.
 
