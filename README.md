@@ -6,6 +6,8 @@
 - 👀 Meu interesse é em aprender a programar novas linguagens.
 - 🌱 No momento estou aprendendo a programar a linguagem JavaScript e Scratch.
 
+  ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=whithe)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <!---
 Dezanete/Dezanete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
